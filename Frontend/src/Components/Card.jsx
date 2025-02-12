@@ -7,7 +7,7 @@ const Card = ({ prop }) => {
         try {
             const token = localStorage.getItem("token");
             if (!token) {
-                alert("You need to log in first!");
+                alert("You need to log in first");
                 return;
             }
 
