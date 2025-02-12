@@ -21,7 +21,7 @@ Edgistify_Assignment/
 
 
 ## Video Walkthrough of the codebase
-Attach a very short video walkthough of codebase [ 1 - 5 minutes ]
+[Codebase Explaination] (https://drive.google.com/file/d/118icL8eoYGFKI_Y3aZ22QnbhKWW4_BrF/view?usp=sharing)
 
 ## Features
 List out the key features of your application.
@@ -33,7 +33,7 @@ List out the key features of your application.
 - Checkout Form
 
 ## design decisions or assumptions
-List your design desissions & assumptions
+List your design decisions & assumptions
 
 ## Installation & Getting started
 For Backend: 
